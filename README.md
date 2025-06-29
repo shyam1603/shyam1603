@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Shyamsundar Dandapat
 
 <div align="center">
-  <img src="https://i.imgur.com/zTGEAXG.png" alt="GitHub Banner" width="100%" />
+  <img src="https://www.pexels.com/photo/shot-of-computer-screen-with-multicoloured-code-4816921/" alt="GitHub Banner" width="100%" />
 </div>
 
 <div align="center">
